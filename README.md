@@ -4,4 +4,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SillySilicon&show_icons=true&theme=transparent)
 ## 龞衎邋，䤉擺？
 
-https://stats.justsong.cn/api/bilibili/?id=1257807036&theme=<theme_name>
+
